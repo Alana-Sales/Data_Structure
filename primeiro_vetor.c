@@ -1,8 +1,10 @@
-//Crie um algoritmo que pergunte ao usuário:
-// • Quantos elementos deve conter em um vetor notas;
-// • Quais as notas devem compor o vetor;
-// • Imprima na tela os elementos do vetor;
-// • Faça a média das notas e por fim imprima o resultado na tela
+/*
+Crie um algoritmo que pergunte ao usuário:
+    • Quantos elementos deve conter em um vetor notas;
+    • Quais as notas devem compor o vetor;
+    • Imprima na tela os elementos do vetor;
+    • Faça a média das notas e por fim imprima o resultado na tela
+*/
 
 #include <stdio.h>
 
