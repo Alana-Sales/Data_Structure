@@ -76,7 +76,6 @@ int main() {
     printf("Número de tarefas: %d\n", tamanhoPilha(&pilha));
     printf("Tarefa do topo: %d\n", tarefaTopo(&pilha));
 
-    // Simula a execução de 2 tarefas (remove-as da pilha)
     for (int i = 0; i < 2; i++) {
         int tarefaRemovida = removerTarefa(&pilha);
         if (tarefaRemovida != -1) {
@@ -87,7 +86,6 @@ int main() {
     printf("Número de tarefas: %d\n", tamanhoPilha(&pilha));
     printf("Tarefa do topo: %d\n", tarefaTopo(&pilha));
 
-    // Adiciona mais 3 tarefas
     for (int i = 6; i <= 8; i++) {
         inserirTarefa(&pilha, i);
     }
