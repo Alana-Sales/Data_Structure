@@ -1,3 +1,11 @@
+/*
+Declare um vetor de inteiro com no máximo 100 elementos;
+pergunte ao usuário quantos elementos deseja inserir;
+solicite ao usuário os elementos para compor o vetor;
+pergunte ao usuário qual elemento deseja inserir e em qual posição;
+imprima na tela o vetor resultante.
+*/
+
 #include <stdio.h>
 
 void inverterVetor(int *vetor, int tamanho) {
