@@ -1,3 +1,11 @@
+/*
+Inversão de Vetor:
+- Crie uma função que receba um vetor estático de inteiros e seu tamanho.
+- Utilize ponteiros para inverter a ordem dos elementos dentro do próprio vetor.
+- Não crie um novo vetor para armazenar o resultado.
+- Após a chamada da função, imprima o vetor na tela
+*/
+
 #include <stdio.h>
 
 int somaElementos(int *array, int tamanho) {
