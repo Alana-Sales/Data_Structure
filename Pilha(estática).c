@@ -1,18 +1,17 @@
-/*Implementar um gerenciador de tarefas que simule a adição e execução de tarefas usando uma pilha (implementação com vetor estático). Cada "tarefa" será representada por um número inteiro (ID).
-
+/*
+Implementar um gerenciador de tarefas que simule a adição e execução de tarefas usando uma pilha (implementação com vetor estático). Cada "tarefa" será representada por um número inteiro (ID).
 Defina a estrutura da pilha;
-
 Crie funções para inicializar a pilha, checar se está vazia, checar se está cheia, inserir uma tarefa, remover uma tarefa, visualizar a tarefa do topo, obter o tamanho da pilha
 
 Na main():
-
-Crie uma pilha;
-Adicione 5 tarefas à pilha.
-Exiba o número de tarefas e a tarefa do topo.
-Simule a execução de 2 tarefas (remova-as da pilha).
-Exiba o número de tarefas e a tarefa do topo.
-Adicione mais 3 tarefas.
-Exiba o número de tarefas e a tarefa do topo.*/
+- Crie uma pilha;
+- Adicione 5 tarefas à pilha.
+- Exiba o número de tarefas e a tarefa do topo.
+- Simule a execução de 2 tarefas (remova-as da pilha).
+- Exiba o número de tarefas e a tarefa do topo.
+- Adicione mais 3 tarefas.
+- Exiba o número de tarefas e a tarefa do topo.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
