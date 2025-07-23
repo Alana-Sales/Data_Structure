@@ -1,3 +1,9 @@
+/*
+Elabora a implementação de uma lista encadeada circular (exemplo que você desejar)
+- inicializando a lista pelo último (tail)
+- criar as funções de inserção, remoção, Busca, Imprimir e liberar a lista
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
