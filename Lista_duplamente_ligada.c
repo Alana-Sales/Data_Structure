@@ -1,3 +1,12 @@
+/*
+Jogo de Memória (Cartas Duplas Consecutivas)
+Crie um jogo da memória com cartas dispostas em linha. 
+Implemente uma lista duplamente ligada com cartas.
+Insira novas cartas no início, no fim e em uma posição específica
+Remova os pares de cartas com o mesmo símbolo consecutivos
+Exiba a lista em ambos os sentidos
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
