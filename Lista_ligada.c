@@ -1,3 +1,19 @@
+/*
+Implemente um jogo de caça ao tesouro usando lista ligada em C, onde cada nó da lista representa uma pista que leva à próxima pista, até que se chegue ao tesouro.
+Cada pista contém:
+- Uma mensagem de dica
+- Um código identificador (int).
+- Um campo proximo apontando para a próxima pista.
+
+O jogo deve permitir as seguintes operações:
+1. Adicionar pista ao final da trilha (função adicionarPista).
+2. Remover uma pista falsa por código (função removerPista).
+3. Exibir todas as pistas na ordem até chegar ao tesouro (função exibirTrilha).
+4. Buscar pista por código e exibir sua mensagem (função buscarPista).
+
+Quando a última pista for atingida, deve imprimir: "Tesouro encontrado!".
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
