@@ -1,3 +1,8 @@
+/*
+Contar vogais em uma string:
+Escreva uma função que recebe uma texto (string) e conta quantas vogais ela possui.
+*/
+
 #include <stdio.h>
 
 int contarVogais(const char *texto) {
