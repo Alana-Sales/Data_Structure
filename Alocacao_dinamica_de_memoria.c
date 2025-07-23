@@ -1,3 +1,13 @@
+/*
+Escreva um programa que:
+- Aloque um vetor de float dinamicamente para armazenar as leituras de sensores instaladas em uma fábrica.
+- Peça ao usuário que insira as temperaturas.
+- Mostre todas as leituras.
+- Após as leituras iniciais, pergunte se mais sensores foram instalados.
+- Se sim, use realloc para expandir o vetor.
+- Leia as novas leituras e exiba todas.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
