@@ -1,3 +1,9 @@
+/*
+Elabore a implementação de uma lista encadeada circular
+- inicializando a lista com a *head = NULL;
+- contendo pelo menos as funções de inserir, remover, buscar, imprimir e destruir a lista
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
