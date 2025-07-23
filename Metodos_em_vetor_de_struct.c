@@ -1,3 +1,9 @@
+/*
+Crie uma estrutura de métodos relacionados a um vetor estático de struct (com o tema que desejar). 
+Com pelo menos um método de de cada: inserção, busca, remoção, exibição do elementos e retornar o tamanho. 
+Em seguida, teste as funções dentro da main().
+*/
+
 #include <stdio.h>
 #include <string.h>
 
